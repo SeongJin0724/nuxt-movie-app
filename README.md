@@ -1,4 +1,4 @@
-# nuxt-movie-app
+# nuxt-movie-app.
 
 ## Build Setup
 
